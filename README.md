@@ -1,1 +1,2 @@
-# Formul-rio
+# Formulario
+Formulário de Venda de Carro: Implementação de um formulário interativo para facilitar o processo de venda de veículos. O projeto permite que o usuário forneça informações essenciais sobre o carro, como modelo, ano, quilometragem, preço, fotos e dados de contato, de forma simples e intuitiva. O formulário inclui validação de dados para garantir a precisão das informações fornecidas. Ideal para plataformas de classificados de veículos ou sites de venda, proporcionando uma maneira eficiente e organizada de listar carros à venda e entrar em contato com os vendedores.
